@@ -3,7 +3,7 @@
 **README language: [简体中文](README.md) · English**
 
 [![中文阅读](https://img.shields.io/badge/阅读-简体中文-ffd440?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/)
-[![Read in English](https://img.shields.io/badge/Read-English-141111?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/en.html)
+[![Read in English](https://img.shields.io/badge/Read-English-2563EB?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/en.html)
 
 A practical six-chapter guide based on European AI hackathon experience: finding events, building teams, choosing ideas, shipping products, and pitching.
 

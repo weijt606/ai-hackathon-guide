@@ -3,7 +3,7 @@
 **README 语言：简体中文 · [English](README.en.md)**
 
 [![中文阅读](https://img.shields.io/badge/阅读-简体中文-ffd440?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/)
-[![Read in English](https://img.shields.io/badge/Read-English-141111?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/en.html)
+[![Read in English](https://img.shields.io/badge/Read-English-2563EB?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/en.html)
 
 来自欧洲 AI 黑客松赛场的六章实战经验：找比赛、组队、选题、开发上线、Demo 与 Pitch。
 
