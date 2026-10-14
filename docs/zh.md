@@ -28,7 +28,7 @@
 
 ## 3. 赞助商不只是发奖金
 
-OpenAI、Anthropic、Google、Cursor、Lovable、n8n、Nebius、Entire、SLNG 等等，大多数黑客松的赞助商都是赫赫有名的大厂或者明星初创公司。
+OpenAI、Anthropic、Google、Cursor、Lovable、n8n、Nebius、Entire、SLNG 等等，在我参加或关注的活动中，赞助方既有大型科技公司，也有初创团队；具体名单以各场赛事公布的信息为准。
 
 奖励通常是现金 / API Credits / Cloud Credits / Mentorship 的几个形式的组合，见过最搞笑的奖励是和赞助商的 CEO 共进早餐 hhh。Overall Prize 和 Sponsor Challenge 都可能有现金奖励，具体取决于赞助商和主办方的安排。
 
@@ -36,7 +36,7 @@ OpenAI、Anthropic、Google、Cursor、Lovable、n8n、Nebius、Entire、SLNG �
 <!--p:8-->
 ## 1. Luma：我的主要信息源
 
-欧洲 AI 圈最活跃的活动平台，Berlin、Paris、Barcelona、Amsterdam、London、Copenhagen 都有不少 AI Hackathon 和 Build Night。
+这是我寻找欧洲 AI 活动时最常用的平台，Berlin、Paris、Barcelona、Amsterdam、London、Copenhagen 都有不少 AI Hackathon 和 Build Night。
 
 先关注当地的 AI / Startup Community，再顺着 Organizer 找活动效率会很高。
 
@@ -93,7 +93,7 @@ OpenAI、Anthropic、Google、Cursor、Lovable、n8n、Nebius、Entire、SLNG �
 **先进入 AI Community，再找 Hackathon！**很多好比赛好队友，都是在 community 活动认识的。
 
 <!--p:14-->
-下一期聊聊欧洲 Hackathon 的参赛者以及怎么组队找到靠谱的队友。
+找到适合自己的比赛之后，接下来要考虑的是和谁一起参赛，以及如何组建一支配合顺畅的队伍。
 
 # 欧洲黑客松参赛者画像 & 组队指南
 <!--p:16-->
@@ -105,8 +105,8 @@ OpenAI、Anthropic、Google、Cursor、Lovable、n8n、Nebius、Entire、SLNG �
 
 <!--p:17-->
 - **Founders / PMs / Designers：**偏产品、UX 和 GTM，很多 Founder 直接带着创业 Idea 甚至成品项目来找技术合伙人或者 VC，这类参赛者 networking 能力很强，主要目的是接洽评委中的 VC 机构。
-- **Serial Hackathoners：**黑客松职业玩家，熟悉规则、评审重点和 Pitch。欧洲 AI 创客圈子挺小，经常在不同城市碰到熟人 hh。
-- **在校高中生：**AI 创业圈和黑客松圈子的年轻化最近几个月感觉特别明显，最近一次参加的黑客松现场有 1/3 都是 20 岁以下甚至很多高中在校生。我的队友就有一个 17 岁的高中生，行动力执行力拉满不说，产品品味和市场嗅觉也非常不错，做 GTM 没有任何包袱和“羞耻心”，一个小时在瑞典的街头采访 20 多个北欧 I 人真是震惊到我了。
+- **Serial Hackathoners：**黑客松职业玩家，熟悉规则、评审重点和 Pitch。我接触的欧洲 AI 创客圈子联系挺紧密，经常在不同城市碰到熟人 hh。
+- **在校高中生：**AI 创业圈和黑客松圈子的年轻化最近几个月感觉特别明显，最近一次参加的黑客松现场有 1/3 都是 20 岁以下甚至很多高中在校生。我的队友就有一个 17 岁的高中生，行动力执行力拉满不说，产品品味和市场嗅觉也非常不错，做 GTM 没有任何包袱和“羞耻心”，一个小时在瑞典的街头采访了 20 多位路人，真是震惊到我了。
 
 <!--p:18-->
 - 当然现场还有不少 **DevRel、VC、Angel Investor**，来找项目、挖人才或者只是单纯扩圈认识 Builder。
@@ -115,7 +115,7 @@ OpenAI、Anthropic、Google、Cursor、Lovable、n8n、Nebius、Entire、SLNG �
 
 先说结论：大型活动大团队（3–4 人），小型 Hack Night 一类的几个小时的比赛 solo 完全 ok。
 
-现在有了 AI Coding Agent 加持，很少见有人古法手搓产品了，所以有人会觉得我完全可以一个人干一个团队的活儿，but！经过我开局连续三场 solo 的经历，产品被认可，但是没有团队的加持，jury 要么怀疑你是否能一个人完成一个团队的活儿，要么觉得项目很难继续推进。后面在接触 VC 机构和加速器的时候有更明显的感觉，甚至有 VC 看上了我的项目但明确告诉我找好 cofounder 再聊下一步，对这 pa 感兴趣的话我之后可以展开聊聊。
+现在有了 AI Coding Agent 加持，很少见有人古法手搓产品了，所以有人会觉得我完全可以一个人干一个团队的活儿，but！经过我开局连续三场 solo 的经历，产品被认可，但是没有团队的加持，jury 要么怀疑你是否能一个人完成一个团队的活儿，要么觉得项目很难继续推进。后面在接触 VC 机构和加速器的时候有更明显的感觉，甚至有 VC 看上了我的项目但明确告诉我找好 cofounder 再聊下一步，这也让我更重视团队的长期合作能力。
 
 <!--p:19-->
 说回组队，24–48 小时的比赛，我更喜欢 2–3 人的团队，沟通成本低，分工灵活出活儿快，当然团队中有一个话事人极为重要！在组队的初期就要定好出现争议的时候谁说了算，谁来拿最后的主意，不然大多数组队在开题阶段就聊崩了，我甚至见过因为在使用模型 / 技术栈上有分歧而散伙的。
@@ -172,7 +172,7 @@ Hackathon 时间太短，没必要搞复杂的项目管理，一个极其轻量�
 总结就是 **Good teammates >> Fancy tech stack.**
 
 <!--p:24-->
-下一期聊聊选题和制定策略，以及怎么提高拿奖概率。
+团队目标和分工明确之后，就可以一起筛选题目，并根据比赛规则制定策略。
 
 # 黑客松怎么选题？分享我的一些拿奖策略
 <!--p:26-->
@@ -223,7 +223,7 @@ Hackathon 时间太短，没必要搞复杂的项目管理，一个极其轻量�
 现在大家都玩 Coding Agent 玩得飞起，Build 一个功能完整的 AI App 已经越来越容易，能拉开差距的是产品判断、品味和 Demo 的体验，当然非常重要的还有做 live demo 和 pitch 的能力。
 
 <!--p:30-->
-下一期聊聊选题确定之后怎么在短短两天甚至几个小时内 build & launch。
+选定方向只是开始。接下来，需要把这个想法压缩成两天甚至几个小时内能完成、能上线、能演示的产品。
 
 # Build & Launch：如何短时间 Ship 一个“好”产品？不要掉进许愿式编程漩涡
 <!--p:32-->
@@ -254,7 +254,7 @@ AI Coding 时代，PRD 已经快成了被人人嫌弃的老古董。毕竟一句
 - **Boilerplate：**熟悉的前后端框架、UI Components、Auth、Database。
 - **Infrastructure：**提前熟悉 CI/CD、Deployment。很多项目光在 Localhost 跑通还不够，尤其是互动类产品和 GTM Hackathon，需要真正部署上线，让用户和评委都能访问。对于没有复杂部署需求的项目，推荐直接用 Vercel + Supabase，或者 Lovable 这类工具快速上线。别把宝贵的 Build 时间浪费在折腾基础设施上。
 
-> Tips：大多数黑客松要求参赛产品在比赛期间从头开发，但通常允许使用开源框架、已有技术架构，以及自己配置好的 Coding Agent。
+> Tips：我参加过的不少黑客松要求参赛产品在比赛期间开发，也有赛事允许使用开源框架、已有技术架构及配置好的 Coding Agent；是否允许以及如何披露，须按该场比赛规则确认。
 
 <!--p:35-->
 当然，具体要看比赛规则，尤其是对预先开发代码的限制。但没必要在比赛现场重新研究一遍 Agent 架构，也没必要从零搭建一套 CI/CD。
@@ -324,11 +324,11 @@ API Key 过期、免费额度耗尽、数据库休眠，这些小问题足够毁
 
 每个坑我都踩过，希望我的经验能帮到大家少踩坑快出活儿。
 
-下一期聊聊 Pitch 和 Demo，怎么在几分钟内让评委记住你的产品。
+产品上线之后，最后一步是把价值展示清楚：准备可靠的 Demo，并在有限的 Pitch 时间里让评委理解它。
 
 # Demo & Pitch：如何在几分钟内让评委喜欢上你的产品？
 <!--p:43-->
-前几期聊了选题、组队、开发和交付。这一期聊聊黑客松的最后一关：Demo、Submission 和 Pitch。
+前面的章节讨论了选题、组队、开发和交付。本章进入黑客松的最后一关：Demo、Submission 和 Pitch。
 
 我参加过的黑客松的 Final Pitch 只有 3 分钟，极个别 5 分钟或者 2 分钟。外加 2–3 分钟 Q&A。十几个小时甚至几天的开发和准备，最后必须浓缩成几分钟的展示。
 
@@ -444,7 +444,7 @@ Final Pitch 后通常会有几分钟 Q&A，这个部分对评委判断参赛队�
 - 尤其是语音、视觉或者手势交互类项目，现场设备和环境变化很容易影响效果。
 - 还有一点：Pitch 前尽量 Feature Freeze，别再为了优化点小东西改代码导致产品演示出问题。
 
-最后的最后，作为欧洲 AI 黑客松分享系列的最终篇，一个小总结：
+走完从参赛到展示的完整流程，最后分享一点体会：
 
 黑客松打多了，越来越觉得 Demo 和 Pitch 本身也是一门技术活。参加 AI 黑客松最棒的点在于可以反复试错反复打磨提升自己的 AI 能力，Coding Agent 让大家的开发产品的速度越来越接近，但是经过竞赛检验的产品表达和现场演示的能力，以及产品分发能力，对以创建自己的 AI Startup 或者创造成功的个人产品为目标的 Builder 们太有帮助了，比赛中说不定就能找到那个来电的 co-founder 或者天使投资人，所以，黑客松大胆冲吧，朋友们。
 <!--p:54-->

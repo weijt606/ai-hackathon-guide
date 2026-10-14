@@ -1,5 +1,10 @@
 # AI 黑客松参赛实战指南 · AI Hackathon Guide
 
+[![中文阅读](https://img.shields.io/badge/阅读-简体中文-ffd440?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/)
+[![Read in English](https://img.shields.io/badge/Read-English-141111?style=for-the-badge)](https://weijt606.github.io/ai-hackathon-guide/en.html)
+
+**以可交互 HTML 为主要版本 / The interactive HTML editions are the primary format.**
+
 来自欧洲 AI 黑客松赛场的六章实战经验：找比赛、组队、选题、开发上线、Demo 与 Pitch。
 
 A practical six-chapter guide to AI hackathons: finding events, building teams, choosing ideas, shipping products, and pitching.
@@ -8,15 +13,14 @@ A practical six-chapter guide to AI hackathons: finding events, building teams, 
 
 ## 阅读 / Read
 
-- [中文网页版](index.html)
-- [English edition](en.html)
-- [下载中文专业 PDF · Chinese PDF](guide.zh.pdf)
+- [中文在线阅读](https://weijt606.github.io/ai-hackathon-guide/)
+- [Read in English](https://weijt606.github.io/ai-hackathon-guide/en.html)
 - [中文 Markdown](docs/zh.md) · [English Markdown](docs/en.md)
 - [54 页中文原稿对照 · Original Chinese pages](source.html)
 
-HTML 链接在 GitHub 文件视图中显示源码。下载仓库后打开 `index.html` 或 `en.html`，或按下方步骤本地预览。启用 GitHub Pages 后可直接在线阅读。
+顶部徽章直接打开对应语言的交互网站。源文件为 `index.html`（中文）和 `en.html`（英文），也可下载后离线阅读。
 
-GitHub file links display HTML source. Download the repository to read the HTML locally, or use the preview instructions below. Enable GitHub Pages for a hosted reading experience.
+The badges open the interactive editions. The main files are `index.html` (Chinese) and `en.html` (English); both also work offline.
 
 ## 六章内容 / Six chapters
 
@@ -35,7 +39,6 @@ GitHub file links display HTML source. Download the repository to read the HTML 
 - 响应式布局、章节及小节导航、阅读进度、字号调节、继续阅读。Responsive layout, chapter navigation, progress, text sizing, and reading position.
 - 离线字体与资源，无需构建、账号或 API key。Local assets and fonts; no build step, account, or API key.
 - 署名水印及原稿对照。Attribution watermarks and a source-page viewer.
-- 18 页 A4 中文 PDF，含可点击目录、书签、页码和水印。An 18-page A4 Chinese PDF with linked contents, bookmarks, page numbers, and watermarks.
 
 ## 本地预览 / Local preview
 
@@ -47,9 +50,7 @@ python3 -m http.server 8765
 
 打开 / Open http://localhost:8765 ，英文版 / English: http://localhost:8765/en.html 。
 
-也可直接打开 HTML；JavaScript 关闭时仍可阅读正文。浏览器打印使用浏览器分页；需要专业排版请直接使用 `guide.zh.pdf`。
 
-You can also open the HTML files directly. Text remains readable without JavaScript. Browser printing uses browser pagination; use `guide.zh.pdf` for the professionally typeset edition.
 
 ## GitHub Pages
 
@@ -63,9 +64,7 @@ In **Settings → Pages**, select **Deploy from a branch → main → / (root)**
 
 The Chinese edition corrects obvious OCR errors and broken lines while preserving the original accounts, examples, and voice. Repeated covers and introductions are consolidated. The English edition translates all six chapters; original scans remain Chinese. Page comments in Markdown map to the source pages.
 
-修改正文时请同步更新 `docs/` 和对应 HTML。PDF 是独立排版文件，不会随 HTML 自动更新。
 
-When editing, update both the Markdown manuscript and corresponding HTML. The PDF is separately typeset and does not update automatically.
 
 ## 贡献 / Contributing
 
@@ -83,3 +82,7 @@ Issues and pull requests for corrections, translations, accessibility, and layou
 
 署名水印用于标示来源；原稿图片文件本身未烧录水印，网页展示时叠加水印。
 Watermarks identify authorship. Original scan files are unmodified; the source viewer overlays the watermark.
+
+文中品牌与产品名称用于识别和经验讨论，不表示相关公司对本指南的认可或赞助。赛事规则、赞助信息及产品能力可能变化，请以相关官方信息为准。
+
+Brand and product names identify the tools discussed and do not imply endorsement or sponsorship of this guide. Event rules, sponsors, and product capabilities may change; consult the relevant official information.

@@ -4,9 +4,9 @@
 
 《AI 黑客松参赛实战指南》及其英文译文采用 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**。
 
-授权范围包括：`docs/` 中的正文、中英文 HTML 中的文档内容、`assets/scans/` 原稿页面及 `guide.zh.pdf`。允许非商业转载、分享和修改，须保留适当署名、提供许可证链接，并注明是否修改。不得用于商业目的。完整条款以 [许可证全文](LICENSES/CC-BY-NC-4.0.txt) 为准。
+授权范围包括：`docs/` 中的正文、中英文 HTML 中的文档内容、`assets/scans/` 原稿页面。允许非商业转载、分享和修改，须保留适当署名、提供许可证链接，并注明是否修改。不得用于商业目的。完整条款以 [许可证全文](LICENSES/CC-BY-NC-4.0.txt) 为准。
 
-The guide content and its English translation are licensed under **CC BY-NC 4.0**. This covers the manuscripts in `docs/`, document text in the HTML editions, original pages in `assets/scans/`, and `guide.zh.pdf`. Noncommercial sharing and adaptation are permitted with appropriate attribution, a license link, and an indication of changes. See the [full license](LICENSES/CC-BY-NC-4.0.txt).
+The guide content and its English translation are licensed under **CC BY-NC 4.0**. This covers the manuscripts in `docs/`, document text in the HTML editions, original pages in `assets/scans/`. Noncommercial sharing and adaptation are permitted with appropriate attribution, a license link, and an indication of changes. See the [full license](LICENSES/CC-BY-NC-4.0.txt).
 
 Official license: https://creativecommons.org/licenses/by-nc/4.0/
 

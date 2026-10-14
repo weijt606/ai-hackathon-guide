@@ -28,7 +28,7 @@ Many European hackathons do not have just one winner.
 
 ## 3. Sponsors offer more than prize money
 
-OpenAI, Anthropic, Google, Cursor, Lovable, n8n, Nebius, Entire, SLNG, and many others: most hackathon sponsors are major tech companies or well-known startups.
+OpenAI, Anthropic, Google, Cursor, Lovable, n8n, Nebius, Entire, SLNG, and many others: events I have attended or followed have involved both large technology companies and startups. Check each event's published sponsor list.
 
 Rewards usually combine cash, API credits, cloud credits, and mentorship. The funniest prize I have seen was breakfast with a sponsor's CEO, haha. Both overall prizes and sponsor challenges can include cash, depending on the organizers and sponsors.
 
@@ -36,7 +36,7 @@ Rewards usually combine cash, API credits, cloud credits, and mentorship. The fu
 <!--p:8-->
 ## 1. Luma: my main source
 
-A very active events platform in Europe's AI scene. Berlin, Paris, Barcelona, Amsterdam, London, and Copenhagen all have plenty of AI hackathons and build nights.
+This is the platform I use most often to find European AI events. Berlin, Paris, Barcelona, Amsterdam, London, and Copenhagen all have plenty of AI hackathons and build nights.
 
 Start by following local AI and startup communities, then follow their organizers to discover more events. It is an efficient approach.
 
@@ -93,7 +93,7 @@ One final lesson:
 **Join an AI community first, then look for hackathons!** I have discovered many good competitions and teammates through community events.
 
 <!--p:14-->
-Next time: who attends European hackathons, and how to find reliable teammates.
+Once you have found a suitable event, the next question is who to enter with and how to build a team that works well together.
 
 # Who attends European hackathons, and how do you build a team?
 <!--p:16-->
@@ -105,8 +105,8 @@ Next time: who attends European hackathons, and how to find reliable teammates.
 
 <!--p:17-->
 - **Founders / PMs / Designers:** More focused on product, UX, and GTM. Many founders bring a startup idea, or even a finished product, to find technical cofounders or VCs. They are strong networkers, often aiming to meet the investors on the judging panel.
-- **Serial Hackathoners:** Experienced competitors who know the rules, judging priorities, and pitch format. Europe's AI builder scene is small. You keep running into familiar faces in different cities, haha.
-- **High School Students:** The AI startup and hackathon scenes have felt noticeably younger in recent months. At my latest event, a third of the participants were under 20, including many still in high school. One of my teammates was 17. Beyond exceptional initiative and execution, they had excellent product taste and market instincts, with none of the hesitation or embarrassment around GTM. Watching them interview more than 20 reserved Nordic people on the streets of Sweden in an hour blew me away.
+- **Serial Hackathoners:** Experienced competitors who know the rules, judging priorities, and pitch format. The European AI builder circles I know are closely connected. You keep running into familiar faces in different cities, haha.
+- **High School Students:** The AI startup and hackathon scenes have felt noticeably younger in recent months. At my latest event, a third of the participants were under 20, including many still in high school. One of my teammates was 17. Beyond exceptional initiative and execution, they had excellent product taste and market instincts, with none of the hesitation or embarrassment around GTM. Watching them interview more than 20 passersby on the streets of Sweden in an hour blew me away.
 
 <!--p:18-->
 - You will also meet **DevRel professionals, VCs, and angel investors** looking for projects, recruiting talent, or simply getting to know more builders.
@@ -115,7 +115,7 @@ Next time: who attends European hackathons, and how to find reliable teammates.
 
 My short answer: a larger team of 3–4 for large events; solo is completely fine for a hack night lasting a few hours.
 
-With AI coding agents, hardly anyone builds everything by hand anymore. It is tempting to think you can do a whole team's work yourself. But after competing solo in my first three events, I learned something: people liked the products, yet without a team, juries either doubted that one person could do all the work or questioned whether the project could continue. I felt this even more strongly when speaking to VCs and accelerators. One VC liked my project but explicitly told me to find a cofounder before discussing next steps. I can talk more about that another time.
+With AI coding agents, hardly anyone builds everything by hand anymore. It is tempting to think you can do a whole team's work yourself. But after competing solo in my first three events, I learned something: people liked the products, yet without a team, juries either doubted that one person could do all the work or questioned whether the project could continue. I felt this even more strongly when speaking to VCs and accelerators. One VC liked my project but explicitly told me to find a cofounder before discussing next steps. That experience made me pay more attention to a team's ability to work together over the long term.
 
 <!--p:19-->
 For 24–48-hour competitions, I prefer a team of 2–3: low communication overhead, flexible responsibilities, and fast delivery. Having a clear decision-maker is essential. Agree at the beginning who makes the final call when you disagree. Otherwise, many teams fall apart while choosing an idea. I have even seen teams break up over models or tech stacks.
@@ -172,7 +172,7 @@ Hackathons are too short for elaborate project management. A lightweight PRD is 
 My takeaway: **Good teammates >> Fancy tech stack.**
 
 <!--p:24-->
-Next time: choosing an idea, planning your strategy, and improving your chances of winning.
+With goals and responsibilities aligned, the team can evaluate ideas and plan a strategy around the competition rules.
 
 # Choosing an idea: some of my prize-winning strategies
 <!--p:26-->
@@ -223,7 +223,7 @@ If your idea has these qualities, you are already halfway there.
 Everyone is getting good at coding agents, so building a functional AI app is becoming easier. What makes the difference is product judgment, taste, the demo experience, and, crucially, your ability to demonstrate and pitch it live.
 
 <!--p:30-->
-Next time: once you have an idea, how do you build and launch in two days, or even a few hours?
+The next step is turning that idea into a product you can build, launch, and demonstrate in two days, or even a few hours.
 
 # Build & Launch: ship a good product quickly, without wishful prompting
 <!--p:32-->
@@ -254,7 +254,7 @@ How quickly you build and launch depends heavily on the technical foundation and
 - **Boilerplate:** Familiar frontend and backend frameworks, UI components, authentication, and databases.
 - **Infrastructure:** Know your CI/CD and deployment setup in advance. Running on localhost is often insufficient, especially for interactive products and GTM hackathons. Users and judges need access to a deployed product. For straightforward deployments, I recommend Vercel + Supabase or a tool such as Lovable. Don't spend precious build time wrestling with infrastructure.
 
-> Tip: Most hackathons require you to build the competing product during the event, but usually allow open-source frameworks, existing technical architecture, and your configured coding agent.
+> Tip: Many events I have attended require the competing product to be built during the event. Some allow open-source frameworks, existing technical architecture, and configured coding agents. Check the specific event rules for permissions and disclosure requirements.
 
 <!--p:35-->
 Check the actual rules, especially restrictions on prewritten code. But you should not need to research agent architecture from scratch or set up an entirely new CI/CD system at the venue.
@@ -324,11 +324,11 @@ An expired API key, exhausted free credits, or a sleeping database can ruin your
 
 I have made every one of these mistakes. I hope my experience helps you avoid them and ship faster.
 
-Next time: demo and pitch, and how to make judges remember your product in just a few minutes.
+Once the product is live, the final step is making its value clear through a dependable demo and a focused pitch.
 
 # Demo & Pitch: win judges over in a few minutes
 <!--p:43-->
-Earlier chapters covered ideas, teams, development, and delivery. Now for the final hurdle: demo, submission, and pitch.
+The preceding chapters covered ideas, teams, development, and delivery. This chapter tackles the final hurdle: demo, submission, and pitch.
 
 Most final pitches at hackathons I have attended last three minutes, with occasional five- or two-minute slots, plus two or three minutes of Q&A. Hours or days of development and preparation have to fit into those few minutes.
 
@@ -444,7 +444,7 @@ I usually run through these questions with teammates beforehand:
 - For voice, vision, and gesture-driven products in particular, changes in equipment and environment can easily affect the result.
 - Freeze features before the pitch if possible. Don't break the demo by changing code for one last tiny improvement.
 
-To close this series on European AI hackathons, one final thought:
+Having walked through the journey from entering an event to presenting a product, one final thought:
 
 The more hackathons I attend, the more I see demoing and pitching as technical skills in their own right. The best part of AI hackathons is the chance to experiment repeatedly and improve your AI skills. Coding agents are bringing everyone's development speed closer together. But competition-tested product communication, live demonstration, and distribution skills are incredibly useful if you want to build an AI startup or a successful independent product. You might even meet the cofounder or angel investor you click with. So go for it, friends. Enter that hackathon.
 <!--p:54-->
