@@ -453,3 +453,8 @@ The more hackathons I attend, the more I see demoing and pitching as technical s
 ---
 
 © 2026 AI不FOMO指南 · Xiaohongshu 27797520622 · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+## Personal views and brand notice
+
+This guide draws on the author’s personal competition experience and observations. The views expressed are the author’s own and do not represent the positions of any event organizer, company, or platform mentioned. Brands, trademarks, and product names belong to their respective owners. References are for identification, explanation, and sharing experience, and do not imply their endorsement, authorization, or sponsorship of this guide. Event rules, product features, and terms of service may change; consult the latest official information. The experiences described do not guarantee eligibility, prizes, or product outcomes.

@@ -263,3 +263,5 @@ html[lang="en"] .chapter-title h2{overflow-wrap:break-word}
 html[lang="en"] .chapter-num{flex-shrink:0}
 @media(max-width:768px){.header-actions{gap:8px}.header-actions>.hs-btn:not(.print-button){font-size:11px;padding:7px}.header-actions .print-button{display:none}html[lang="en"] .brand{font-size:13px}html[lang="en"] .brand small{font-size:8px}html[lang="en"] .chapter-meta{flex-wrap:wrap;gap:8px}html[lang="en"] .hero h1{font-size:48px}}
 @media print{.language-link{display:none}}
+
+.publication-notice{max-width:1024px;margin:32px auto;padding:24px;border-top:2px solid var(--hs-ink,#141111);font-size:14px;line-height:1.8}.publication-notice h2{font-size:18px;margin:0 0 12px}.publication-notice p{margin:0}@media print{.publication-notice{break-inside:avoid;font-size:9pt}}

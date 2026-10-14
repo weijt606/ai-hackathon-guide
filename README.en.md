@@ -75,4 +75,6 @@ Issues and pull requests for corrections, translations, accessibility, and layou
 
 Watermarks identify authorship. Original scan files are unmodified; the source viewer overlays the watermark.
 
-Brand and product names identify the tools discussed and do not imply endorsement or sponsorship of this guide. Event rules, sponsors, and product capabilities may change; consult the relevant official information.
+## Personal views and brand notice
+
+This guide draws on the author’s personal competition experience and observations. The views expressed are the author’s own and do not represent the positions of any event organizer, company, or platform mentioned. Brands, trademarks, and product names belong to their respective owners. References are for identification, explanation, and sharing experience, and do not imply their endorsement, authorization, or sponsorship of this guide. Event rules, product features, and terms of service may change; consult the latest official information. The experiences described do not guarantee eligibility, prizes, or product outcomes.
